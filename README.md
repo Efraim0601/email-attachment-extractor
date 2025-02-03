@@ -17,7 +17,6 @@ Script Python pour récupérer automatiquement les pièces jointes d'une boîte 
 
 - Python 3.6+
 - Accès IMAP activé sur votre compte email
-- Pour Gmail : [Autoriser les applications moins sécurisées](https://myaccount.google.com/lesssecureapps) ou utiliser un [App Password](https://support.google.com/accounts/answer/185833)
 
 ### Installation
 
